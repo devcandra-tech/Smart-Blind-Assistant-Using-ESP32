@@ -1,4 +1,4 @@
-/*
+/* ini sc nya gan sikat
  * ============================================================
  *  ESP32-CAM — Kamera + Kirim Foto ke Telegram
  *  Menerima request dari ESP32 Master via HTTP lokal
