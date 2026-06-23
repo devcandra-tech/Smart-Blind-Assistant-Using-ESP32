@@ -1,4 +1,4 @@
-/*
+/*sc
  * ============================================================
  *  ESP32 MASTER — Alat Bantu Tunanetra
  *  GPS + Kamera (via Telegram) | Ultrasonik + Buzzer (otomatis)
