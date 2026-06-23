@@ -14,9 +14,9 @@
 #include <HardwareSerial.h>
 
 // ─── KONFIGURASI ─────────────────────────────────────────────
-const char* WIFI_SSID     = "Kurnia Juliza";
-const char* WIFI_PASSWORD = "12345678910";
-const char* BOT_TOKEN     = "8993347518:AAHnkvTKI7vb5fjqzpqUS19neu2MWb_weIE";
+const char* WIFI_SSID     = "urwifi";
+const char* WIFI_PASSWORD = "urpw";
+const char* BOT_TOKEN     = "urtoken";
 const char* CAM_IP        = "esp32cam.local";
 const int   CAM_PORT      = 80;
 
