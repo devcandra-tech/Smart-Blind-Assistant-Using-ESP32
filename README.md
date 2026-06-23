@@ -160,7 +160,7 @@ Library yang digunakan:
 
 ---
 ## PCB Design
-![Skema Wiring Proyek](skematiblind.png)
+![Skema Wiring Proyek](skematikblind.png)
 
 
 ---
