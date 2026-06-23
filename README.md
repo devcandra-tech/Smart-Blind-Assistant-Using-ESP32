@@ -135,13 +135,7 @@ Baterai 18650
 
 ### Komunikasi ESP32 ↔ ESP32-CAM
 
-| ESP32 WROOM | ESP32-CAM |
-|-------------|-----------|
-| TX | RX |
-| RX | TX |
-| GND | GND |
-
----
+Menggunakan jaringan yang sama 
 
 ## Library Arduino IDE
 
@@ -166,20 +160,12 @@ Library yang digunakan:
 
 ---
 
-## Sistem Catu Daya
-
 ### Sumber Daya
 
 - Baterai Li-ion 18650
 - Modul Charger TP4056
 - Proteksi Overcharge
 - Proteksi Overdischarge
-
-### Keamanan
-
-- Melindungi baterai dari pengisian berlebih.
-- Melindungi baterai dari pengosongan berlebih.
-- Melindungi sistem dari arus berlebih dan hubungan singkat.
 
 ---
 
