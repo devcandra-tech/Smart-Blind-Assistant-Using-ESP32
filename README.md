@@ -161,6 +161,7 @@ Library yang digunakan:
 ---
 ## PCB Design
 ![Skema Wiring Proyek](skematikblind.png)
+![Skema Wiring Proyek](2DPCB.png)
 
 
 ---
