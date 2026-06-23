@@ -159,13 +159,9 @@ Library yang digunakan:
 | /status | Menampilkan status perangkat |
 
 ---
+## PCB Design
+![Skema Wiring Proyek](skematiblind.png)
 
-### Sumber Daya
-
-- Baterai Li-ion 18650
-- Modul Charger TP4056
-- Proteksi Overcharge
-- Proteksi Overdischarge
 
 ---
 
