@@ -34,9 +34,9 @@
 #include "soc/rtc_cntl_reg.h"
 
 // ─── KONFIGURASI — GANTI SESUAI DATA ANDA ───────────────────
-const char* WIFI_SSID     = "Kurnia Juliza";
-const char* WIFI_PASSWORD = "12345678910";
-const char* BOT_TOKEN     = "8993347518:AAHnkvTKI7vb5fjqzpqUS19neu2MWb_weIE";
+const char* WIFI_SSID     = "urwifi";
+const char* WIFI_PASSWORD = "urpw";
+const char* BOT_TOKEN     = "urtoken";
 // ─────────────────────────────────────────────────────────────
 
 // ─── Pin Kamera AI-Thinker ESP32-CAM ────────────────────────
